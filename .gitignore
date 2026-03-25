@@ -1,0 +1,18 @@
+# SQLite database created at runtime
+library.db
+
+# Student progress tracking
+.progress.json
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# macOS
+.DS_Store
+
+# Editor files
+.vscode/
+.idea/
+*.swp
